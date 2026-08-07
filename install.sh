@@ -2,8 +2,8 @@
 
 set -e
 
-REPO="https://github.com/yoshidaranimahato-collab/SpyPanel.git"
-PANEL_DIR="$HOME/SpyPanel"
+REPO="https://github.com/yoshidaranimahato-collab/SpyPanel-2.git"
+PANEL_DIR="$HOME/SpyPanel-2"
 
 show_menu() {
     clear
