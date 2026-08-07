@@ -1,0 +1,1 @@
+const btn=document.getElementById("loginBtn");if(btn)btn.onclick=()=>{const u=document.getElementById("username").value.trim();if(!u)return alert("Enter username");localStorage.setItem("spypanel_username",u);localStorage.setItem("spypanel_role",u.toLowerCase()==="admin"?"admin":"user");location.href="/dashboard"};

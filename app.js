@@ -1,0 +1,1 @@
+const btn=document.getElementById("registerBtn");if(btn)btn.onclick=()=>{const u=document.getElementById("username").value.trim();if(!u)return alert("Enter username");localStorage.setItem("spypanel_username",u);localStorage.setItem("spypanel_role","user");location.href="/dashboard"};

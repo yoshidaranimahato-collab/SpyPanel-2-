@@ -1,0 +1,1 @@
+module.exports={port:Number(process.env.PORT||6767),name:process.env.SPYPANEL_NAME||"SpyPanel"};

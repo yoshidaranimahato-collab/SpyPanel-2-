@@ -1,0 +1,47 @@
+[
+  {
+    "nest": "minecraft",
+    "name": "Paper",
+    "slug": "paper"
+  },
+  {
+    "nest": "minecraft",
+    "name": "Purpur",
+    "slug": "purpur"
+  },
+  {
+    "nest": "minecraft",
+    "name": "Fabric",
+    "slug": "fabric"
+  },
+  {
+    "nest": "minecraft",
+    "name": "Forge",
+    "slug": "forge"
+  },
+  {
+    "nest": "minecraft",
+    "name": "NeoForge",
+    "slug": "neoforge"
+  },
+  {
+    "nest": "minecraft",
+    "name": "Velocity",
+    "slug": "velocity"
+  },
+  {
+    "nest": "minecraft",
+    "name": "BungeeCord",
+    "slug": "bungeecord"
+  },
+  {
+    "nest": "minecraft",
+    "name": "Waterfall",
+    "slug": "waterfall"
+  },
+  {
+    "nest": "minecraft",
+    "name": "Bedrock",
+    "slug": "bedrock"
+  }
+]

@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",()=>{if(localStorage.getItem("spypanel_theme")==="light")document.body.classList.add("light")});
