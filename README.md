@@ -20,7 +20,7 @@ npm run install-panel
 Linux one-click installer:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/yoshidaranimahato-collab/SpyPanel/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/yoshidaranimahato-collab/SpyPanel-2/main/install.sh)
 ```
 
 > The one-click command requires a public GitHub repository and a Linux environment with Git, Node.js and curl.
